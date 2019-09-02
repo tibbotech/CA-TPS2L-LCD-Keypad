@@ -1,5 +1,5 @@
-# CA-TPS2L-LCD-Keypad
+# TPS2L LCD and Keypad Demo
 
-To download the most recent project without installing GIT, please press the green "Clone or Download" button and select "Download ZIP".
+This demo runs on the TPS2L device and demonstrates the use of the LCD, sensor keypad, signal strength LEDs, and the buzzer.
 
-For more detail about this project, please visit <a href="http://tibbo.com/programmable/applications/tps2llk.html" target="_blank">Project Description Page</a>
+Make sure you are running the latest TIDE, then open and run this project. Touching keys will draw rectangles of different colors. Also, each time you press a key the TPS2L will beep and switch one of the signal strength LEDs on.
